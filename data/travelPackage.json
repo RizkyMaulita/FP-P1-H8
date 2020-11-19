@@ -1,0 +1,32 @@
+[
+  {
+    "title":"Wisata Gunung Bromo",
+    "about": "Berdiri kokoh setinggi 2.329 meter di atas permukaan laut, Gunung Bromo menyimpan keindahan alam yang sayang untuk dilewatkan. Gunung berapi yang masih aktif ini secara administratif berada di empat wilayah kabupaten di Jawa Timur, antara lain Kabupaten Malang, Pasuruan, Lumajang dan Probolinggo. Hal ini memudahkan wisatawan untuk datang dari arah manapun. Gunung ini merupakan bagian dari Taman Nasional Bromo Tengger Semeru dan telah menjadi tempat wisata paling terkenal di provinsi Jawa Timur. Taman nasional seluas 800 km persegi ini melingkupi kawasan Gunung Bromo dan Gunung Semeru",
+    "location": "Batu Malang, East Java",
+    "meet_point": "Jakarta",
+    "departure_date": "17 Dec, 2020",
+    "duration": "4D 3N",
+    "type": "Open Trip",
+    "price": 25e5
+  },
+  {
+    "title":"Wisata Candi Borobudur",
+    "about": "Candi Borobudur merupakan salah satu object wisata paling terkenal di Jawa Tengah dan Yogyakarta. Candi Budha terbesar di dunia yang merupakan salah satu warisan budaya di Indonesia. Candi Borobudur berbentuk stupa ini didirikan oleh para penganut agama Buddha Mahayana sekitar tahun 800-an Masehi pada masa pemerintahan wangsa Syailendra. Candi Borobudur memiliki enam teras berbentuk bujur sangkar yang diatasnya terdapat tiga pelataran melingkar, pada dindingnya dihiasi dengan 2.672 panel relief dan aslinya terdapat 504 arca Buddha",
+    "location": "Magelang, Central Java",
+    "meet_point": "Jakarta",
+    "departure_date": "10 Dec, 2020",
+    "duration": "3D 2N",
+    "type": "Open Trip",
+    "price": 2e6
+  },
+  {
+    "title":"Wisata di Kawasan Lembang Bandung",
+    "about": "Terletak di dataran tinggi, Lembang Bandung memiliki pesona tempat wisata yang mampu menyihir para wisatawan yang berkunjung. Anda bisa mengajak keluarga atau saudara untuk berkunjung ke wisata di Bandung yang sedang hits dan populer. Kawasan Lembang merupakan wilayah di Kabupaten Bandung Barat yang paling tinggi dan berada di puncak Gunung Tangkuban Perahu. Banyak wisatawan yang berkunjung ke Lembang karena memang memiliki daya tarik tersendiri. Di dalam open trip ini, kamu akan diajak mengunjungi setidaknya 5 tempat wisata di Lembang, Bandung, yaitu Tangkuban Perahu, Floating Market, The Lodge Maribaya, De'Branch, dan Dusun Bambu Family Leisure Park",
+    "location": "Lembang, West Java",
+    "meet_point": "Jakarta",
+    "departure_date": "29 Dec, 2020",
+    "duration": "3D 2N",
+    "type": "Open Trip",
+    "price": 2e6
+  }
+]
